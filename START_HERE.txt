@@ -1,0 +1,1 @@
+Upload all files AND the projects folder to the repository root. Do not upload the outer Aakash_Gajera_Complete_GitHub_Upload folder. Check all four download links after GitHub Pages deploys.
